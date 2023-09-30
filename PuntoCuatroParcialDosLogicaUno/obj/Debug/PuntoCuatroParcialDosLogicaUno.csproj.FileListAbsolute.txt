@@ -1,0 +1,7 @@
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\bin\Debug\PuntoCuatroParcialDosLogicaUno.exe.config
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\bin\Debug\PuntoCuatroParcialDosLogicaUno.exe
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\bin\Debug\PuntoCuatroParcialDosLogicaUno.pdb
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\obj\Debug\PuntoCuatroParcialDosLogicaUno.csproj.AssemblyReference.cache
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\obj\Debug\PuntoCuatroParcialDosLogicaUno.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\obj\Debug\PuntoCuatroParcialDosLogicaUno.exe
+C:\Users\sofia\Desktop\Ciclos-Log1\PuntoCuatroParcialDosLogicaUno\obj\Debug\PuntoCuatroParcialDosLogicaUno.pdb
